@@ -5,6 +5,8 @@ Customer segmentation and campaign analysis using SQL, Python &amp; Tableau to d
 
 This project analyzes customer data from a fictional supermarket chain, aiming to identify distinct customer groups, understand their consumption behavior, and tailor marketing strategies accordingly.
 
+RAW DATA- https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data
+
 ## 🎯 Project Goals
 - Segment customers into meaningful clusters
 - Analyze purchase behavior and campaign response
